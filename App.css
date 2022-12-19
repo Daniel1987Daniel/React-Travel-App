@@ -1,0 +1,32 @@
+*{
+  background-color: lightskyblue;
+}
+
+h1,
+h3 {
+  color: orange;
+}
+
+.App-title{
+  text-align: center;
+}
+
+.NavToronto,
+.NavEngland
+{
+  justify-content: space-between;
+  display: flex;
+  align-items: center;
+  background-color: rgb(174, 209, 233);
+  color: green;
+  height: 20px;
+  padding: 30px 60px;
+}
+
+.logo-Toronto {
+  border-radius: 30px;
+}
+
+.logo-England {
+  border-radius: 30px;
+}
